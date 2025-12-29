@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Mohammad Hadi Asgarpour, Everyone can Call me Hadi.
-- 💻 I’m Computer Engineering Student in Urmia University of Technology.
-- 👀 I’m interested in Programming and Designing.
-- 🌱 I’m currently learning Gameplay Programming.
+- 👋 Hi, I’m Mohammad Hadi Asgarpour.
+- 💻 a Computer engineering Teacher.
+- 🌱 Working as Brand Designer Freelancer and Interested in new technologies.
